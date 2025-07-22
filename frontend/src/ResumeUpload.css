@@ -1,0 +1,80 @@
+/* ResumeUpload.css */
+
+body {
+  background-color: #111;
+  color: #ccc;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.upload-container {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #f0f0f0;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  color: #888;
+}
+
+.file-input {
+  display: block;
+  margin: 0 auto 1.5rem;
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #555;
+  background-color: #222;
+  color: #ccc;
+}
+
+.loader {
+  text-align: center;
+  color: #0af;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.analysis-result {
+  background: #121212;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #333;
+  white-space: pre-wrap;
+  font-family: monospace;
+  margin-top: 1.5rem;
+}
+
+.analysis-title {
+  color: #eee;
+  margin-bottom: 1rem;
+}
+
+.section-heading {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #ddd;
+  margin-bottom: 0.75rem;
+}
+
+.bold-item {
+  font-weight: bold;
+  color: #ccc;
+  margin-bottom: 0.5rem;
+}
+
+.analysis-line {
+  color: #aaa;
+  margin-bottom: 0.4rem;
+}

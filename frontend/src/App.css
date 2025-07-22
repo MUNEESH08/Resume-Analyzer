@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+.App {
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
